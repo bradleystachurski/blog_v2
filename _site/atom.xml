@@ -4,7 +4,7 @@
  <title>Brad Stachurski</title>
  <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
  <link href="http://lanyon.getpoole.com/"/>
- <updated>2016-10-11T18:43:25+03:00</updated>
+ <updated>2016-10-12T08:11:24+03:00</updated>
  <id>http://lanyon.getpoole.com</id>
  <author>
    <name>Mark Otto</name>
@@ -13,11 +13,125 @@
 
  
  <entry>
+   <title>An Aesthetically Pleasing Writing Process</title>
+   <link href="http://lanyon.getpoole.com/2016/10/12/an-aesthetically-pleasing-writing-process/"/>
+   <updated>2016-10-12T07:27:00+03:00</updated>
+   <id>http://lanyon.getpoole.com/2016/10/12/an-aesthetically-pleasing-writing-process</id>
+   <content type="html">&lt;p&gt;It’s simple, but it’s worth stating. What’s the one thing that makes a writer a writer? &lt;strong&gt;They write&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;That’s it. The same goes for a programmer. They program.&lt;/p&gt;
+
+&lt;p&gt;One of the forms that Resistance (link to blog post on Why Start a Blog) can manifest itself is in allowing us to get distracted from writing (or programming) by spending too much time deciding what tools to use. It can be a trap and I’ve succumbed to it many times. Keep this in mind while reading about the tools I’m using for my writing setup.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-beautiful-setup&quot;&gt;A Beautiful Setup&lt;/h2&gt;
+
+&lt;p&gt;Nothing is a substitute for&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why Start A Blog?</title>
+   <link href="http://lanyon.getpoole.com/2016/10/12/why-start-a-blog/"/>
+   <updated>2016-10-12T05:52:00+03:00</updated>
+   <id>http://lanyon.getpoole.com/2016/10/12/why-start-a-blog</id>
+   <content type="html">&lt;h2 id=&quot;the-why-not&quot;&gt;The why not?&lt;/h2&gt;
+
+&lt;p&gt;The “why” is such an important question, and sometimes you don’t always have the answer to why you do certain things. Some of the best things that’s happened to me in life have been in response to not overthinking it. Our minds (or at least my mind) tend to find as many reasons as possible to not do something. Some of the thoughts that have been circling my head prior to starting this blog:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Why would anyone want to read what I have to write?”&lt;/li&gt;
+  &lt;li&gt;“Oh great, let’s add another blog to the world.”&lt;/li&gt;
+  &lt;li&gt;“There are so many people that are better software developers, data visualizers, entrepreneurs, etc. What makes me feel I’m good enough to share my thoughts with the world on any of these subjects?”&lt;/li&gt;
+  &lt;li&gt;“I’m still learning. Maybe I should wait until I’m truly an expert before sharing my thoughts with the world.”&lt;/li&gt;
+  &lt;li&gt;“Will I be adding value to the world or just adding to the noise?”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The mind is a funny thing. It doesn’t start to fret only when considering starting a blog. Oh, it does it with pretty much anything. Hearing that lovely voice of doubt is something to get used to. One of my favorite books, &lt;em&gt;The War of Art&lt;/em&gt; by Steven Pressfield defines the mind’s ability to tell us excuses when we pursue things that have the potential to make our lives better. He calls it &lt;strong&gt;&lt;em&gt;Resistance&lt;/em&gt;&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;
+  Resistance will tell you anything to keep you from doing your work. It will perjure, fabricate, falsify; seduce, bully, cajole. Resistance is protean. It will assume any form, if that’s what it takes to deceive you. It will reason with you like a lawyer or jam a nine-millimeter in your face like a stickup man. Resistance has no conscience. It will pledge anything to get a deal, then double-cross you as soon as your back is turned. If you take Resistance at its word, you deserve everything you get. Resistance is always lying and always full of shit.
+  &lt;/p&gt;
+  &lt;footer&gt;&lt;cite title=&quot;Steven Pressfield&quot;&gt;Steven Pressfield&lt;/cite&gt;&lt;/footer&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Resistance &lt;strong&gt;is&lt;/strong&gt; full of shit. Thank you Steven.&lt;/p&gt;
+
+&lt;p&gt;If that sounds a little dramatic, it isn’t. Resistance is such a persuasive and subtle force that it has the ability to leave you on your death bed questioning “what if?” for your life.&lt;/p&gt;
+
+&lt;p&gt;It also has the ability to stop anyone from starting a blog on web development.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-why&quot;&gt;The Why&lt;/h2&gt;
+
+&lt;p&gt;There’s good news. Making excuses are what minds do. In fact, we can use this to our advantage. It’s a compass. The more self doubt we have regarding a creative endeavor means that endeavor is proportionally more important to pursue.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;
+  Like a magnetized needle floating on a surface of oil, Resistance will unfailingly point to true North—meaning that calling or action it most wants to stop us from doing.
+  &lt;/p&gt;
+  &lt;p&gt;
+  We can use this. We can use it as a compass. We can navigate by Resistance, letting it guide us to that calling or action that we must follow before all others.
+  &lt;/p&gt;
+  &lt;p&gt;Rule of thumb: The more important a call or action is to our soul’s evolution, the more Resistance we will feel toward pursuing it.
+  &lt;/p&gt;
+  &lt;footer&gt;&lt;cite title=&quot;Steven Pressfield&quot;&gt;Steven Pressfield&lt;/cite&gt;&lt;/footer&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’ve been listening to the story that Resistance has been telling me for several months. It’s been telling me to not start a blog. I think I’ve found true North.&lt;/p&gt;
+
+&lt;h3 id=&quot;some-concrete-reasons-why-to-start-a-blog&quot;&gt;Some Concrete Reasons Why to Start a Blog&lt;/h3&gt;
+
+&lt;p&gt;(I go a little off track in the following section, but I don’t necessarily want to scrap it. Here’s a quick list of the concrete reasons to start a blog)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Start sharing what I’m learning with the world&lt;/li&gt;
+  &lt;li&gt;I don’t need to be an expert, I just need to be one step ahead of someone to help guide them along
+  -&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This blog isn’t entirely a spirit quest, or waging war against Resistance. Or hell, maybe it is. Only time will tell. But for now, let’s move away from the woo woo (I do like me some woo woo).&lt;/p&gt;
+
+&lt;p&gt;I’m learning things. I’m learning some really cool things. I think it’s time that I start sharing some of this with the world, and a blog is a great channel to reach an audience.&lt;/p&gt;
+
+&lt;p&gt;A widely discussed topic in the field of software development (and beyond) is imposter syndrome. According to &lt;a href=&quot;https://hbr.org/2008/05/overcoming-imposter-syndrome&quot;&gt;Harvard Business Review&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;
+  Imposter syndrome can be defined as a collection of feelings of inadequacy that persist despite evident success
+  &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It sure is humbling to learn new things. The more you learn, the more you realize that you’ve barely scratched the surface, especially in a fields relating to computer science. It’s easy to feel like an imposter, especially when you compare your current skill level as a developer to someone that’s been doing this the majority of their life. How can you even say you’re both professionals? Well, there’s one qualification to being a programmer. You have to be able to &lt;strong&gt;write code&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Creating a blog about web development (and beyond) isn’t my declaration that I’m something I’m not. I don’t have decades of experience writing software for businesses in multiple industries. I’m going down my own path of learning the field, and in order to write something of value I only need to be one step ahead.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-stuff-about-trading-that-i-dont-want-to-delete-yet&quot;&gt;Other stuff about trading that I don’t want to delete yet&lt;/h2&gt;
+
+&lt;p&gt;I’m learning things. I’m learning some really cool things. I think it’s time I start sharing some of these things with the world.&lt;/p&gt;
+
+&lt;p&gt;I used to be employed as a professional options trader at the Chicago Board of Options Exchange for the first two years after I graduated college. That sucked. It was my life passion to become a trader. I was so damn giddy before beginning my internship as a trader that I brought a copy of &lt;em&gt;Options Volatility and Pricing&lt;/em&gt; by Sheldon Natenberg with me to Machu Picchu.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Brad in Machu Picchu.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My life as an options trader can be saved for another post (or several posts), but I was incredibly disappointed when I started working in the industry. I quit working in the trading industry after my boss lost all the money in the firm in less than one second a few days before bonuses were paid out at the end of 2014 (again, worthy of a blog post in the future).&lt;/p&gt;
+
+&lt;p&gt;After quitting, I needed some time to chill, and boy did I start chilling. I started&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Hello World</title>
    <link href="http://lanyon.getpoole.com/2016/10/10/hello-world/"/>
    <updated>2016-10-10T21:57:00+03:00</updated>
    <id>http://lanyon.getpoole.com/2016/10/10/hello-world</id>
-   <content type="html">
+   <content type="html">&lt;p&gt;Hello World, it’s nice to meet you. I’m Brad Stachurski. It’s 3:14am on October 8, 2016 and I’m in an Airbnb in Lviv, Ukraine. Sounds like the perfect time to start a blog. I’ve been traveling through Europe the past four months. The last two months I’ve focused on learning web development and data visualization. My goodness is this a fascinating area and I’m going to share a little of what I’m learning with you, dear reader.&lt;/p&gt;
+
+&lt;p&gt;The focus of this blog will be technical in nature, but I might go on the occasional tangent to write about my past life as a professional options trader, the business I run remotely, or self-improvement topics.&lt;/p&gt;
+
+&lt;p&gt;I want to readjust the text for the above paragraph, not the biggest fan of the wording.&lt;/p&gt;
+
+&lt;p&gt;Something more like:
+Actually, you know what, I think I can just keep that first paragraph as the Hello World post. Then I can have another post that addresses why I should start a blog and what the blog will be about (at least the original aim).&lt;/p&gt;
 </content>
  </entry>
  
