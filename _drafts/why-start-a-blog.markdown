@@ -20,7 +20,7 @@ The mind is a funny thing. It doesn't start to fret only when considering starti
   <p>
   Resistance will tell you anything to keep you from doing your work. It will perjure, fabricate, falsify; seduce, bully, cajole. Resistance is protean. It will assume any form, if that’s what it takes to deceive you. It will reason with you like a lawyer or jam a nine-millimeter in your face like a stickup man. Resistance has no conscience. It will pledge anything to get a deal, then double-cross you as soon as your back is turned. If you take Resistance at its word, you deserve everything you get. Resistance is always lying and always full of shit.
   </p>
-  <footer><cite title="Steven Pressfield">Steven Pressfield</cite></footer>
+  <footer><cite title="Steven Pressfield">&mdash; Steven Pressfield</cite></footer>
 </blockquote>
 
 Resistance **is** full of shit. Thank you Steven.
@@ -42,20 +42,22 @@ There's good news. Making excuses are what minds do. In fact, we can use this to
   </p>
   <p>Rule of thumb: The more important a call or action is to our soul’s evolution, the more Resistance we will feel toward pursuing it.
   </p>
-  <footer><cite title="Steven Pressfield">Steven Pressfield</cite></footer>
+  <footer><cite title="Steven Pressfield">&mdash; Steven Pressfield</cite></footer>
 </blockquote>
 
 I've been listening to the story that Resistance has been telling me for several months. It's been telling me to not start a blog. I think I've found true North.
 
-### Some Concrete Reasons Why to Start a Blog
+### Some Concrete Reasons
 
 (I go a little off track in the following section, but I don't necessarily want to scrap it. Here's a quick list of the concrete reasons to start a blog)
 
   - Start sharing what I'm learning with the world
   - I don't need to be an expert, I just need to be one step ahead of someone to help guide them along
-  -
+  - Let the world know I'm a professional
 
 This blog isn't entirely a spirit quest, or waging war against Resistance. Or hell, maybe it is. Only time will tell. But for now, let's move away from the woo woo (I do like me some woo woo).
+
+#### Sharing what I learn
 
 I'm learning things. I'm learning some really cool things. I think it's time that I start sharing some of this with the world, and a blog is a great channel to reach an audience.
 
@@ -70,6 +72,23 @@ A widely discussed topic in the field of software development (and beyond) is im
 It sure is humbling to learn new things. The more you learn, the more you realize that you've barely scratched the surface, especially in a fields relating to computer science. It's easy to feel like an imposter, especially when you compare your current skill level as a developer to someone that's been doing this the majority of their life. How can you even say you're both professionals? Well, there's one qualification to being a programmer. You have to be able to **write code**.
 
 Creating a blog about web development (and beyond) isn't my declaration that I'm something I'm not. I don't have decades of experience writing software for businesses in multiple industries. I'm going down my own path of learning the field, and in order to write something of value I only need to be one step ahead.
+
+#### Exposure
+
+Writing code is intrinsically rewarding. The feeling of creating something that was previously nothing is addicting. Unfortunately, good feelings don't pay the bills.
+
+Blogging is one of the best ways to let the world know you're a professional, regardless of your craft. When you start to act like a professional, the world responds accordingly.
+
+#### Selfishness
+
+It's good to be selfish.
+
+I started journaling in January 2015 and it's become a daily habit. Writing can be therapeutic. Sometimes the best way to sort through thoughts is to sit down a puke them out through writing.
+
+Other things to write about in this section:
+
+  - Reflecting on what you've learned is gratifying
+  - Tying back into exposure, starting a blog might lead to financial opportunities
 
 ## Other stuff about trading that I don't want to delete yet
 
